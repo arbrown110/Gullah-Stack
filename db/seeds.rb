@@ -10,3 +10,4 @@ food = Category.create(name: "Food")
 vid = Category.create(name: "Media")
 clothes = Category.create(name: "Clothing")
 location = Category.create(name: "Travel")
+
